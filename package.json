@@ -1,5 +1,5 @@
 {
-  "name": "PMN Boilerplate",
+  "name": "PMN-Boilerplate",
   "version": "1.0.0",
   "description": "React App served with Koa server",
   "main": "index.js",
